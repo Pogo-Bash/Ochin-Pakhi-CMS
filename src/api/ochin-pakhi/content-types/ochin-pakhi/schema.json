@@ -1,5 +1,5 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "ochin_pakhis",
   "info": {
     "singularName": "ochin-pakhi",
@@ -11,10 +11,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Link": {
-      "type": "string",
-      "required": true,
-      "unique": true
+    "link": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
