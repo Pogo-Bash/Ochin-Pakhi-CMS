@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "ochin_pakhis",
+  "info": {
+    "singularName": "ochin-pakhi",
+    "pluralName": "ochin-pakhis",
+    "displayName": "ochin-pakhi"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Link": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}
