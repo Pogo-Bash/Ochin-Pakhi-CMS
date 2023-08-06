@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ochin_photos",
+  "info": {
+    "singularName": "ochin-photo",
+    "pluralName": "ochin-photos",
+    "displayName": "Ochin-Photo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "poster": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
