@@ -12,15 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Name": {
-      "type": "string"
-    },
-    "description": {
-      "type": "string"
-    },
-    "Timing": {
-      "type": "datetime"
-    },
     "poster": {
       "type": "media",
       "multiple": false,
